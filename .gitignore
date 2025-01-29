@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+/build*/
+/.idea
+/managed_components/
+/*.lock
+/sdkconfig
+/sdkconfig.old
+.DS_Store
+/sdk
+/.vscode
